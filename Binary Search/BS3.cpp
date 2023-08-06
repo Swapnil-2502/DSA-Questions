@@ -67,3 +67,11 @@ pair<int, int> firstAndLastPosition(vector<int>& arr, int n, int k)
     //TC = O(logN);
     //SC = O(1);
 }
+
+//Use the above code to find the Number of occurrence
+
+int count(vector<int>& arr, int n, int x) {
+	pair<int,int> ans = firstAndLastPosition(arr,n,x);
+	if(ans.first == -1) return 0;
+	return (ans.second - ans.first + 1);
+}
