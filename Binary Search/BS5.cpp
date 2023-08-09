@@ -36,6 +36,7 @@ bool searchInARotatedSortedArrayII(vector<int>&arr, int k) {
         }
     }
     return false;
-    //TC = O(logN);
+    //TC = O(logN); 
+    //worst case TC = O(N/2);
     //Sc = O(1);
 }
