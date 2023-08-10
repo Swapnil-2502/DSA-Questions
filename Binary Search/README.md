@@ -18,3 +18,6 @@ BS-4. Search In A Rotated Sorted Array
 
 BS-5. Search In A Rotated Sorted Array II
 -   https://www.codingninjas.com/studio/problems/search-in-a-rotated-sorted-array-ii_7449547?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
+
+BS-6. Minimum in rotated sorted array
+-   https://www.codingninjas.com/studio/problems/rotated-array_1093219?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1
