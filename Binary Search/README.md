@@ -24,3 +24,6 @@ BS-6. Minimum in rotated sorted array
 
 BS-7. Rotation
 -   https://www.codingninjas.com/studio/problems/rotation_7449070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
+
+BS-8. Single Element in a Sorted Array
+-   https://www.codingninjas.com/studio/problems/unique-element-in-sorted-array_1112654?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
