@@ -24,6 +24,6 @@ int singleNonDuplicate(vector<int>& arr)
 		}
 	}
 	return -1;
-	//Tc = O(logN);
+	//TC = O(logN);
 	//SC = O(1);
 }
