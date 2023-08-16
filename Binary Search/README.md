@@ -27,3 +27,6 @@ BS-7. Rotation
 
 BS-8. Single Element in a Sorted Array
 -   https://www.codingninjas.com/studio/problems/unique-element-in-sorted-array_1112654?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
+
+BS-9. Find Peak Element
+-   https://www.codingninjas.com/studio/problems/find-peak-element_1081482?leftPanelTab=0
