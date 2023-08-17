@@ -30,3 +30,6 @@ BS-8. Single Element in a Sorted Array
 
 BS-9. Find Peak Element
 -   https://www.codingninjas.com/studio/problems/find-peak-element_1081482?leftPanelTab=0
+
+BS-10. Finding Sqrt of a number using Binary Search
+-   https://www.codingninjas.com/studio/problems/square-root-integral_893351?leftPanelTab=0&utm_medium=website&utm_campaign=a_zcoursetuf
