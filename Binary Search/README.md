@@ -34,4 +34,5 @@ BS-9. Find Peak Element
 BS-10. Finding Sqrt of a number using Binary Search
 -   https://www.codingninjas.com/studio/problems/square-root-integral_893351?leftPanelTab=0&utm_medium=website&utm_campaign=a_zcoursetuf
 
-BS-11.
+BS-11. Find Nth Root Of M
+-   https://www.codingninjas.com/studio/problems/nth-root-of-m_1062679?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTab=0
