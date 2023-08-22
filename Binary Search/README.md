@@ -36,3 +36,6 @@ BS-10. Finding Sqrt of a number using Binary Search
 
 BS-11. Find Nth Root Of M
 -   https://www.codingninjas.com/studio/problems/nth-root-of-m_1062679?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTab=0
+
+BS-12. Koko Eating Bananas
+-   https://www.codingninjas.com/studio/problems/minimum-rate-to-eat-bananas_7449064?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
