@@ -39,3 +39,6 @@ BS-11. Find Nth Root Of M
 
 BS-12. Koko Eating Bananas
 -   https://www.codingninjas.com/studio/problems/minimum-rate-to-eat-bananas_7449064?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
+
+BS-13. Minimum days to make M bouquets
+-   https://www.codingninjas.com/studio/problems/rose-garden_2248080?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
