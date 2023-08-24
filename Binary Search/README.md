@@ -42,3 +42,6 @@ BS-12. Koko Eating Bananas
 
 BS-13. Minimum days to make M bouquets
 -   https://www.codingninjas.com/studio/problems/rose-garden_2248080?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
+BS-14. Find the smallest Divisor
+-   https://www.codingninjas.com/studio/problems/smallest-divisor-with-the-given-limit_1755882?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
