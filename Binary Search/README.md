@@ -48,3 +48,6 @@ BS-14. Find the smallest Divisor
 
 BS-15. Least capacity to ship packages within D days
 -   https://www.codingninjas.com/studio/problems/capacity-to-ship-packages-within-d-days_1229379?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTab=1
+
+BS-16. Kth Missing Positive Number
+-   https://www.codingninjas.com/studio/problems/kth-missing-element_893215?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTab=0
