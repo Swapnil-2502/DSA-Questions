@@ -45,3 +45,6 @@ BS-13. Minimum days to make M bouquets
 
 BS-14. Find the smallest Divisor
 -   https://www.codingninjas.com/studio/problems/smallest-divisor-with-the-given-limit_1755882?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
+
+BS-15. Least capacity to ship packages within D days
+-   https://www.codingninjas.com/studio/problems/capacity-to-ship-packages-within-d-days_1229379?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTab=1
