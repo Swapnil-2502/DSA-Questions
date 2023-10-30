@@ -51,3 +51,6 @@ BS-15. Least capacity to ship packages within D days
 
 BS-16. Kth Missing Positive Number
 -   https://www.codingninjas.com/studio/problems/kth-missing-element_893215?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTab=0
+
+BS-17. Aggressive Cows
+-   https://www.codingninjas.com/studio/problems/aggressive-cows_1082559?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTab=0
